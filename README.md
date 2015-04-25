@@ -1,3 +1,3 @@
 # plug.bot
 
-coming soon!!!
+javascript:(function(){$.getScript('');})();
