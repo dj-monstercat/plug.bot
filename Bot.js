@@ -173,7 +173,7 @@
     var trapbot = {
         version: "1",
         status: false,
-        name: "EDM-Nation bot",
+        name: "plug.bot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/dj-monstercat/plug.bot/master/Bot.js",
         cmdLink: "http://goo.gl/qPOuYn",
@@ -250,7 +250,7 @@
             autodisableInterval: null,
             autodisableFunc: function () {
                 if (trapbot.status && trapbot.settings.autodisable) {
-                    API.sendChat('We have commands, do you want to know wich? Type !commands');
+                    API.sendChat('heyo type !commands to see some cool commands for all ranks!');
                 }
             },
             queueing: 0,
