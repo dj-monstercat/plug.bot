@@ -1,3 +1,3 @@
 # plug.bot
 
-javascript:(function(){$.getScript('https://rawgit.com/dj-monstercat/plug.bot/master/start.min.js');})();
+javascript:(function(){$.getScript('https://github.com/dj-monstercat/plug.bot/blob/master/Bot.js');})();
