@@ -138,7 +138,7 @@
     "commandscd": "/me [@%%NAME%%] The cooldown for commands by users is now set to %%TIME%% seconds.",
     "voteratio": "/me [@%%NAME%%] @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, ratio (w/m): %%RATIO%%.",
     "website": "/me Sorry the page is currenlty down",
-    "twitter": "/me "Sorry the page is currenlty down,
+    "twitter": "/me Sorry the page is currenlty down",
     "youtube": "/me Sorry the page is currenlty down",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%% :+1: | %%GRABS%% :star: | %%MEHS%% :-1:"
 }
